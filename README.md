@@ -11,6 +11,7 @@ Pac-Man és un videojoc clàssic d’arcade en què el jugador recorre un laberi
 ### Els fantasmes
 
 - [Blinky](blinky.md)
+- [Pinky](pinky.md)
 
 
 
